@@ -1,3 +1,8 @@
+/*
+https://www.youtube.com/watch?v=RSlqWnP-Dy8&list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW
+*/ 
+
+
 --Table 1 Query:
 Create Table EmployeeDemographics 
 (EmployeeID int, 

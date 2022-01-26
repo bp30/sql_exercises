@@ -1,5 +1,6 @@
 /* 
 Updating and deleting data
+https://www.youtube.com/watch?v=bhnrIforc7s&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=5
 */
 
 SELECT *

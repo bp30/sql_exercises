@@ -1,5 +1,6 @@
 /* 
 Union Union All
+https://www.youtube.com/watch?v=lYKkro6rKm0&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=2
 */
 
 -- Create new table

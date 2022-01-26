@@ -1,5 +1,6 @@
 /*
 Aliasing
+https://www.youtube.com/watch?v=Dk7he_yEs4U&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=6
 */
 
 SELECT FirstName + ' ' + LastName AS FullName

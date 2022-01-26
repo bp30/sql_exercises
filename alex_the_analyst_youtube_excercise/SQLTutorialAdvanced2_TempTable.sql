@@ -1,5 +1,6 @@
 /* 
 Temp tables
+https://www.youtube.com/watch?v=RF0LE3hYFrI&list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU&index=2
 */
 
 -- only difference between temp and regular tables is the inclusion of the # sign

@@ -1,5 +1,6 @@
 /* 
 Partition by
+https://www.youtube.com/watch?v=D6XNlTfglW4&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=7
 */
 SELECT *
 FROM EmployeeDemographics;

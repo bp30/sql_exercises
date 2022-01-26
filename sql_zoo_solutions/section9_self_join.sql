@@ -1,5 +1,6 @@
 /*
-Section 8: Self join
+Section 9: Self join
+https://sqlzoo.net/wiki/Self_join
 */
 
 -- 1. How many stops are in the database.

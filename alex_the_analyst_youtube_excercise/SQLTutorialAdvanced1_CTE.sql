@@ -1,5 +1,6 @@
 /*
 CTE - a common table expression (temporary result set created to help manipulate complex subqueries)
+https://www.youtube.com/watch?v=K1WeoKxLZ5o&list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU
 */
 
 -- Create a CTE 

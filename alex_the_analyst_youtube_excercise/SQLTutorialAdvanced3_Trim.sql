@@ -1,5 +1,6 @@
 /* 
 String Functions - TRIM, LTRIM, RTRIM, Replace, Substring, Upper, Lower
+https://www.youtube.com/watch?v=GQj6_6V_jVA&list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU&index=3
 */
 
  -- Drop Table EmployeeErrors;

@@ -1,5 +1,6 @@
 /*
 Section 2: SELECTY from WOLRD tutorial
+https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
 */
 
 -- 1. Read the notes about this table. Observe the result of running this SQL command to show the name, continent and population of all countries.

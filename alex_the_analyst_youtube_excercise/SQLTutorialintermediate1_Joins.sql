@@ -1,5 +1,6 @@
 /*
 Inner joins, Full/left/right/Outer Join
+https://www.youtube.com/watch?v=9URM1_2S0ho&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=1
 */
 --INSERT INTO  SQLTutorial.dbo.EmployeeDemographics VALUES
 --(1011, 'Ryan', 'Howard', 26, 'Male'),

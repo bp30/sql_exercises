@@ -1,5 +1,6 @@
 /* 
 Subqueries
+https://www.youtube.com/watch?v=m1KcNV-Zhmc&list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU&index=5
 */
 
 SELECT * 

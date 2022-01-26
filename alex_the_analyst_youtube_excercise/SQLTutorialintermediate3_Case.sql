@@ -1,5 +1,6 @@
 /* 
 CASE statement
+https://www.youtube.com/watch?v=Twusw__OzA8&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=3
 */
 
 SELECT FirstName, LastName, Age,

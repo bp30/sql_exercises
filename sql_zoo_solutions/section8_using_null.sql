@@ -1,5 +1,6 @@
 /*
-Section 7: Using Null
+Section 8: Using Null
+https://sqlzoo.net/wiki/Using_Null
 */
 
 -- 1. List the teachers who have NULL for their department.

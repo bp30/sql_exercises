@@ -1,5 +1,6 @@
 /* 
 Group By, Order By
+https://www.youtube.com/watch?v=LXwfzIRD-Ds&list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW&index=4
 */
 
 SELECT DISTINCT(Gender), COUNT(*)
